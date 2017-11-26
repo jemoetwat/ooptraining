@@ -1,9 +1,10 @@
-package io.mindloops.ooptraining.labone;
+package io.mindloops.ooptraining.labtwo;
 
 public class Engine {
-    int horsepower;
+    private int horsepower;
 
     public Engine(int horsepower) {
+
         this.horsepower = horsepower;
     }
 
